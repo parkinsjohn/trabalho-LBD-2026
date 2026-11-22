@@ -10,3 +10,5 @@ app/: Não temos
 Sabrina Gonçales Gomes RGA: 2024.1907.050-7
 
 João Pedro Ramalho Pasqualini RGA: 2022.1907.035-0
+
+Miguel Ferreira de Andrade RGA:2025.1907.021-5
