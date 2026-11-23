@@ -6,6 +6,7 @@ docs/: documentação e diagrama entidade-relacionamento.
 sql/: scripts SQL do banco de dados
 carga/: Não temos
 app/: Não temos
+ não gravamos o vídeo
 #Integrantes
 Sabrina Gonçales Gomes RGA: 2024.1907.050-7
 
